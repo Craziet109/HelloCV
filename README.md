@@ -24,7 +24,7 @@ other--->CMakeList.cpp
 2.用终端进入项目文件
 
 3. 进行源码外构建
-4. 
+
 命令：mkdir build
 
 命令：cd build
