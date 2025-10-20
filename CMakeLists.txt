@@ -1,12 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(Casear)
+project(Caesar)
 
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(SOURCES casear.cpp)
+set(SOURCES caesar.cpp)
 
 
-add_executable(Casear ${SOURCES})
+add_executable(Caesar ${SOURCES})
