@@ -9,5 +9,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(SOURCES caesar.cpp)
 
 
-add_executable(Caesar ${SOURCES})
+add_executable(caesar ${SOURCES})
+
 
